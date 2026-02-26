@@ -1,0 +1,18 @@
+- name: Aryhanna Pham
+  university: University of California San Diego
+  program: Artificial Intelligence
+  github_url: https://github.com/aryhannapham
+  url: /contributors/aryhanna-pham/
+  nav_order: 10
+- name: Ethan Kim
+  university: University of California, Berkeley
+  program: Data Science with focus on applied modeling
+  github_url: https://github.com/Gilaze
+  url: /contributors/ethan-kim/
+  nav_order: 20
+- name: Yujing (Fiona) Feng
+  university: University of California San Diego
+  program: Data Analyst and SDE, Math and Computer Science
+  github_url: https://github.com/Fiona-7788
+  url: /contributors/yujing-feng/
+  nav_order: 30

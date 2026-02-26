@@ -1,0 +1,15 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata/
+.sass-cache/
+
+# Ruby / Bundler
+vendor/bundle/
+.bundle/
+*.gem
+*.rbc
+
+# OS
+.DS_Store
+Thumbs.db
