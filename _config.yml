@@ -1,0 +1,11 @@
+title: Industry Projects for Python
+description: Student Contributions to Course Material
+theme: just-the-docs
+
+url: https://oppkey.github.io
+baseurl: "/industry-python-contributions"
+
+color_scheme: light
+
+nav_enabled: true
+search_enabled: true
