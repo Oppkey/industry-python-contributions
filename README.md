@@ -2,6 +2,8 @@
 
 Jekyll site for GitHub Pages to list contributions from students.
 
+**Live site:** [https://oppkey.github.io/industry-python-contributions/](https://oppkey.github.io/industry-python-contributions/)
+
 ## Running the site locally
 
 ### Prerequisites
